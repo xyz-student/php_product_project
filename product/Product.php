@@ -42,7 +42,7 @@ if (isset($_POST['submit'])) {
                     
                     while ($row = mysqli_fetch_array($query)) {
                         $cat_id = $row['cat_id'];
-                        $cat_title = $row['cat_title'];
+                        $cat_title = $row['cat_title']; // cat id
                     ?>
                         <option value="<?php echo $row['cat_id'] ?>"><?php echo $row['cat_title'] ?></option>
 
@@ -60,7 +60,7 @@ if (isset($_POST['submit'])) {
                     
                     while ($row = mysqli_fetch_array($query)) {
                         $sub_id = $row['sub_id'];
-                        $sub_cat_title = $row['sub_cat_title'];
+                        $sub_cat_title = $row['sub_cat_title']; // id (sub_id data)
                     ?>
                         <option value="<?php echo $row['sub_id'] ?>"><?php echo $row['sub_cat_title'] ?></option>
 
