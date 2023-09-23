@@ -46,3 +46,29 @@ if (isset($_POST['submit'])) {
         </div>
     </div>
 </div>
+
+
+
+WordPress Comments
+WordPress - Add Comments
+WordPress - Edit Comments
+WordPress - Moderate Comments
+
+WordPress Plugins
+WordPress - View Plugins
+WordPress - Install Plugins
+WordPress - Customize Plugins
+
+WordPress Users
+WordPress - User Roles
+WordPress - Add Users
+WordPress - User Photo
+WordPress - Edit Users
+WordPress - Delete Users
+WordPress - Personal Profile
+
+WordPress Appearance
+WordPress - Theme Management
+WordPress - Customize Theme
+WordPress - Widget Management
+WordPress - Background
